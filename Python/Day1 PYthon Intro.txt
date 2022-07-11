@@ -1,0 +1,38 @@
+Python- Python is a high level general purpose programming language
+High Level-Python is as simple as like english - python is easy to learn and easy to USE.
+general purpose?-
+1.Software Development
+2.Web Development
+3.Game Development
+4.Data Science
+5.Automation Testing
+6.Web Scrapping
+
+
+Python Features
+1. HLL
+2. General Purpose programming
+3. Interpreted(interpreter) Programming
+	COmpiler - which executes the whole program at once.
+	iNTERPRETER -line by line execution.
+4.Dynamically Typed Programming
+	dynamic data type
+5.Open Source
+
+Python's History
+1991->Guido Vann Rossum->"Monty's Python Flying Circus"
+
+Variables:
+-literals
+-Rules to form variables-
+1.Variable name can't be started with number
+2.Special Character can't be used anywhere in variable name(except _)
+3.variable name cannot contain space b/w .
+
+I/O
+
+Data Types
+1.Number - int,float,complex
+
+Arithmetical Operators:
++,-,*,/,%(modulus-remainder),//,**
